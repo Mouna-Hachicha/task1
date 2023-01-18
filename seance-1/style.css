@@ -1,0 +1,8 @@
+h1 {
+  color: blue;
+}
+
+
+#check input:checked ~ .checkmark:after {
+  text-decoration: line-through;
+}
